@@ -34,11 +34,5 @@ The database contains three main tables:
 
 This project demonstrates the application of **SQL for real-world data analysis**, focusing on structured querying, data exploration, and insight generation suitable for business decision-making.
 
-## 📂 Repository Structure
-
-* `queries/` – SQL queries used for analysis
-* `README.md` – Project documentation
-
----
 
 **Author:** Shilpa Dash
